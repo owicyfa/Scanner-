@@ -1,0 +1,146 @@
+[
+  {
+    "protocol": "Aave V2",
+    "type": "Lending",
+    "asset": "WETH",
+    "oracle": "0xA50ba011c48153De246E5192C8f9258A2ba79Ca9",
+    "price": "0x0000000000000000000000000000000000000000000000000de0b6b3a7640000",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Aave V2",
+    "type": "Lending",
+    "asset": "WBTC",
+    "oracle": "0xA50ba011c48153De246E5192C8f9258A2ba79Ca9",
+    "price": "0x00000000000000000000000000000000000000000000000190c25846a4bcbc57",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Aave V2",
+    "type": "Lending",
+    "asset": "USDC",
+    "oracle": "0xA50ba011c48153De246E5192C8f9258A2ba79Ca9",
+    "price": "0x0000000000000000000000000000000000000000000000000001251fa66cd5b6",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Aave V2",
+    "type": "Lending",
+    "asset": "DAI",
+    "oracle": "0xA50ba011c48153De246E5192C8f9258A2ba79Ca9",
+    "price": "0x0000000000000000000000000000000000000000000000000001250fb750cecd",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Aave V3",
+    "type": "Lending",
+    "asset": "WETH",
+    "oracle": "0x54586bE62E3c3580375aE3723C145253060Ca0C2",
+    "price": "0x000000000000000000000000000000000000000000000000000000485437e07a",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Aave V3",
+    "type": "Lending",
+    "asset": "WBTC",
+    "oracle": "0x54586bE62E3c3580375aE3723C145253060Ca0C2",
+    "price": "0x0000000000000000000000000000000000000000000000000000082171a8ee5a",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Aave V3",
+    "type": "Lending",
+    "asset": "LINK",
+    "oracle": "0x54586bE62E3c3580375aE3723C145253060Ca0C2",
+    "price": "0x0000000000000000000000000000000000000000000000000000000050d2eaff",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Compound V2",
+    "type": "Lending",
+    "asset": "cETH",
+    "oracle": "0x50ce56A3239671Ab62f185704Caedf626352741e",
+    "price": "0x000000000000000000000000000000000000000000000087d77e015984b9c000",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Compound V2",
+    "type": "Lending",
+    "asset": "cWBTC",
+    "oracle": "0x50ce56A3239671Ab62f185704Caedf626352741e",
+    "price": "0x0000000000000000000000000000000000001e970dc3409d518c9c01c0000000",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Compound V2",
+    "type": "Lending",
+    "asset": "cUSDC",
+    "oracle": "0x50ce56A3239671Ab62f185704Caedf626352741e",
+    "price": "0x000000000000000000000000000000000000000c9f2c9cd04674edea40000000",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Compound V2",
+    "type": "Lending",
+    "asset": "cDAI",
+    "oracle": "0x50ce56A3239671Ab62f185704Caedf626352741e",
+    "price": "0x0000000000000000000000000000000000000000000000000de08a22f3cbf000",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Euler Finance",
+    "type": "Lending",
+    "asset": "WETH",
+    "oracle": "0x1891783cb3497Fdad1F25C933225243c2c7c4102",
+    "price": "Warning: Contract code is empty\n0x",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Euler Finance",
+    "type": "Lending",
+    "asset": "USDC",
+    "oracle": "0x1891783cb3497Fdad1F25C933225243c2c7c4102",
+    "price": "Warning: Contract code is empty\n0x",
+    "status": "ACTIVE",
+    "risk": "NEEDS_INSPECTION",
+    "note": "Manual check required: Review oracle source for getReserves() or slot0() calls"
+  },
+  {
+    "protocol": "Alpha Homora V2",
+    "type": "Leveraged Farming",
+    "asset": "WETH",
+    "status": "FAILED",
+    "risk": "UNKNOWN"
+  },
+  {
+    "protocol": "Alpha Homora V2",
+    "type": "Leveraged Farming",
+    "asset": "SUSHI",
+    "status": "FAILED",
+    "risk": "UNKNOWN"
+  }
+]
